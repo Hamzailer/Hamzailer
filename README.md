@@ -6,7 +6,7 @@
 
 ## I'm a Front End Web Developer and Game Developer with the Godot and Unity Game Engine
 
-- I’m currently learning Rust, GOLang and C/C++
+- I’m currently learning Rust, GOLang, C/C++ and Flutter
 - 2021 Goals: Understand programs at a low level
 
 
