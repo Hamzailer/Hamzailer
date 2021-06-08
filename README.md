@@ -7,7 +7,7 @@
 ## I'm a Back End Web Developer and Game Developer with the Godot and Unity Game Engine
 
 - I’m currently learning UE4/UE5, Kotlin, Flutter and Nest.js
-- 2021 Goals: Understand programs at a low level
+- 2021 Goals: Branch into mobile development
 
 
 ### Connect with me:
