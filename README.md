@@ -38,8 +38,7 @@
 
 <br />
 
-<img align="left" alt="Hamzailer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Hamzailer&show_icons=true&hide_border=true" />
-
+![Hamzailer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzailer&show_icons=true&theme=dracula)
 
 [twitter]: https://twitter.com/HamzailerO
 [youtube]: https://www.youtube.com/channel/UCjfbvke_cA4D2_mji0p00nA
