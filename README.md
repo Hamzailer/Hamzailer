@@ -26,7 +26,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/graphql-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fpreview%2Fwhite%2Fgithub-11-xxl.png&f=1&nofb=1" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Godot" width="26px" src="https://toppng.com/uploads/thumbnail/custom-drawing-in-2d-godot-engine-latest-documentation-godot-game-engine-logo-11562936391v3z8ka5zkd.png" />
 <img align="left" alt="CSharp" width="26px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
