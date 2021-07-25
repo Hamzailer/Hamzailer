@@ -22,7 +22,7 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamzailer-ma&theme=dracula)](https://github.com/hamzailer/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamzailer)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
