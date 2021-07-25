@@ -1,7 +1,6 @@
 ### Hi there, I'm Hamza aka Hamzailer 👋
 
 
-<br />
 
 ### Languages and Tools:
 
