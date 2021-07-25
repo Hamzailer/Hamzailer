@@ -22,6 +22,10 @@
 
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
 ![Hamzailer's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzailer&show_icons=true&theme=dracula)
 
 [twitter]: https://twitter.com/HamzailerO
