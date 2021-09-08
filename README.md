@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hamzailer.hamzailer)
 
 </p>
-<div size='20px'> Hi! My name is Hamza and I'm a expert at googling.
+<div size='20px'> Hi! My name is Hamza and I'm a software developer.
 </div>
 
 <h2> About Me</h2>
