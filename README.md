@@ -45,4 +45,4 @@
 <h2> My GitHub Stats</h2>
 
 
-![Metrics](https://metrics.lecoq.io/Hamzailer)
+![Metrics](https://metrics.lecoq.io/Hamzailer?template=classic&config.timezone=Asia%2FKarachi)
